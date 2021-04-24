@@ -1,0 +1,2 @@
+id/tegar/catatanpenjualan/BuildConfig.java
+ id.tegar.catatanpenjualan.BuildConfig
